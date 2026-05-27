@@ -1,0 +1,14 @@
+# Visual Studio 暫存設定
+.vs/
+
+# 編譯輸出
+bin/
+obj/
+
+# 使用者設定
+*.user
+*.suo
+
+# NuGet
+packages/
+*.nupkg
